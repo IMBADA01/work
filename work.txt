@@ -1,5 +1,5 @@
-one
-two
-3
+1 one 일
+2 two 이
+3 thre 삼
 4
 5
